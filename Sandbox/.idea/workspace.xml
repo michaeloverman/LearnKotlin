@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="866e4e61-6902-431d-8e02-531a9e9eca78" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="866e4e61-6902-431d-8e02-531a9e9eca78" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NyetHack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NyetHack/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Kotlin/HelloKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning Kotlin/HelloKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Kotlin/META-INF/Learning Kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning Kotlin/META-INF/Learning Kotlin.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Kotlin/TypeIntroKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning Kotlin/TypeIntroKt.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,26 +22,37 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1QI933ungOwfmvmupDUfCSxbFTD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Kotlin.TypeIntroKt">
-    <configuration name="HelloKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.GenericsKt">
+    <configuration name="GenericsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Learning Kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="GenericsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Learning Kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -47,7 +65,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypeIntroKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="TypeIntroKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Learning Kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -62,11 +80,13 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.GenericsKt" />
         <item itemvalue="Kotlin.TypeIntroKt" />
         <item itemvalue="Kotlin.HelloKt" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -79,5 +99,27 @@
       <updated>1567447040960</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1574" height="280" key="GridCell.Tab.0.bottom" timestamp="1596863302845">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1574" height="280" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1596863302845" />
+    <state width="1574" height="280" key="GridCell.Tab.0.center" timestamp="1596863302845">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1574" height="280" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1596863302845" />
+    <state width="1574" height="280" key="GridCell.Tab.0.left" timestamp="1596863302844">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1574" height="280" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1596863302844" />
+    <state width="1574" height="280" key="GridCell.Tab.0.right" timestamp="1596863302845">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1574" height="280" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1596863302845" />
+    <state x="488" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1596914974748">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="488" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1596914974748" />
   </component>
 </project>
